@@ -4,3 +4,5 @@ const navMenu = document.getElementById("navMenu");
 menuBtn.addEventListener("click", () => {
   navMenu.classList.toggle("show");
 });
+//header
+
